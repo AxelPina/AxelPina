@@ -1,4 +1,10 @@
-### Hi there 👋
+- 👋 Hey, I’m @axelpina
+- 👀 I’m interested in AWS, Backend Software Development, PowerShell, Linux, Windows, Docker, Open Source & more.
+- 🌱 I’m currently learning how to develop on NextJS.
+- 💬 Ask me about AWS services.
+- 🫡 I’m looking to collaborate on stuffs.
+- 📫 How to reach me: axelpina.bsky.social.
+- ⚡ Fun fact: Veteran at brainstorming creative solutions.
 
 <!--
 **axelpina/axelpina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
