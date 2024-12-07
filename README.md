@@ -4,7 +4,6 @@
 - 💬 Ask me about AWS services.
 - 🫡 I’m looking to collaborate on stuffs.
 - 📫 How to reach me: axelpina.bsky.social.
-- ⚡ Fun fact: Veteran at brainstorming creative solutions & Gamer.
 - 🌐 https://www.axelpina.dev/
 
 <!--
