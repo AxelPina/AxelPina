@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning how to develop using Python.
 - 💬 Ask me about AWS services.
 - 🫡 I’m looking to collaborate on stuffs.
-- 📫 How to reach me: axelpina.bsky.social.
 - 🌐 https://www.axelpina.dev/
 
 <!--
